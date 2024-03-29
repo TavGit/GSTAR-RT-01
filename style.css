@@ -312,9 +312,6 @@ nav ul li a:hover {
   .banner {
     background-size: 110% auto;
   }
-}
-
-@media (max-width: 768px) {
   audio {
     margin-top: 110px;
   }
