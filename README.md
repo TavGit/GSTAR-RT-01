@@ -1,4 +1,4 @@
-# G Star Generation Ramadan Repository 🚀🌙
+# G Star Generation Ramadan Repository 🚀🌙 2024
 
 Selamat datang di repositori G Star Generation untuk merayakan bulan Ramadan!
 
